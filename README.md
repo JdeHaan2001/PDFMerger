@@ -27,5 +27,5 @@ For now, no contributions will be accepted.
 Distributed under the MIT License. See LICENSE.txt for more information.
 
 # Contact
-Jeroen de Haan - [info.jdehaan@gmail.com](mailto:info.jdehaan@gmail.com?subject=[GitHub]%20PDF%20Merger)
+Jeroen de Haan - [info.jdehaan@gmail.com](mailto:info.jdehaan@gmail.com?subject=[GitHub]%20PDF%20Merger)  
 Project Link: [https://github.com/JdeHaan2001/PDFMerger](url)
