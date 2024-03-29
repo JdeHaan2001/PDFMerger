@@ -7,6 +7,7 @@ PDF Merger is a small Windows application where one can select multiple differen
 * C#
 * .NET 6
 * Windows Presentation Foundation
+* [PDFsharp](https://docs.pdfsharp.net/General/Overview/About.html)
 
 # Getting Started
 WIP
