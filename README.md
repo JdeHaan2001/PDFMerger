@@ -1,7 +1,7 @@
 # PDFMerger
 
 # About The Project
-PDF Merger is a small Windows application where one can select multiple different PDFs and merge them together into a single PDF file.
+PDF Merger is a small Windows application where one can view PDF files and merge multiple PDF files into one.
 
 ## Build With
 * C#
@@ -21,7 +21,7 @@ WIP
 WIP
 
 # Contributing
-For now, no contributions will be accepted.
+At this point in time, no contributions will be accepted.
 
 # License
 Distributed under the MIT License. See LICENSE.txt for more information.
