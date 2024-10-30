@@ -22,20 +22,5 @@ namespace PDFMerger
         {
             InitializeComponent();
         }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            var fileDialogue = new OpenFileDialog();
-
-            fileDialogue.InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
-            fileDialogue.Filter = "Pdf files|*.pdf";
-            fileDialogue.RestoreDirectory = true;
-
-            if (fileDialogue.ShowDialog() == true)
-            {
-                string filePath = fileDialogue.FileName;
-                MessageBox.Show(filePath);
-            }
-        }
     }
 }
