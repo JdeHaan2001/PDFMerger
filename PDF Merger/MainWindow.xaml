@@ -6,8 +6,5 @@
         xmlns:local="clr-namespace:PDFMerger"
         mc:Ignorable="d"
         Title="PDF Editor" Height="200" Width="200">
-    <Grid>
-        <Button Content="Choose file" HorizontalAlignment="Center" VerticalAlignment="Center" Click="Button_Click"/>
-
-    </Grid>
+    <Grid/>
 </Window>
